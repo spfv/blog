@@ -1,0 +1,92 @@
+[2018-05-28T14:59:25.656] [INFO] response - { method: 'POST',
+  url: '/api/login',
+  body: { username: '13016220642', password: '123456789' },
+  costTime: 78,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8081',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { success: false, msg: '你不是管理员噢，请勿登录。' } } }
+[2018-05-28T14:59:34.669] [INFO] response - { method: 'POST',
+  url: '/api/login',
+  body: { username: '17602004746', password: 'wokaopy123' },
+  costTime: 81,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8081',
+        'content-type': 'application/json; charset=utf-8' },
+     body: 
+      { status: 200,
+        success: true,
+        token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VfaWQiOiIxNzYwMjAwNDc0NiIsImlhdCI6MTUyNzQ5MDc3NCwiZXhwIjoxNTI4MDk1NTc0fQ.IWu5WT_-hL2vs0e93gg1pGJhyBS6nPhiz6ui7u_co9o',
+        msg: '恭喜主人,登录成功' } } }
+[2018-05-28T14:59:36.595] [INFO] response - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: 4,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8081',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { status: 200, msg: '获取文章列表成功', data: [] } } }
+[2018-05-28T15:08:30.665] [INFO] response - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: 35,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8081',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { status: 200, msg: '获取文章列表成功', data: [] } } }
+[2018-05-28T15:09:27.158] [INFO] response - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: 2,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8081',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { status: 200, msg: '获取文章列表成功', data: [] } } }
+[2018-05-28T15:11:53.808] [INFO] response - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: 3,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8081',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { status: 200, msg: '获取文章列表成功', data: [] } } }
+[2018-05-28T15:11:55.435] [INFO] response - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: 2,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8081',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { status: 200, msg: '获取文章列表成功', data: [] } } }
+[2018-05-28T15:13:19.943] [INFO] response - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: 1,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8081',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { status: 200, msg: '获取文章列表成功', data: [] } } }

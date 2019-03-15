@@ -1,0 +1,454 @@
+[2019-02-14T14:38:31.947] [ERROR] error - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: undefined,
+  err: 
+   { UnauthorizedError: token lose
+       at Object.throw (/Users/spfv/blog/node_modules/koa/lib/context.js:93:11)
+       at module.exports (/Users/spfv/blog/server/token/checkToken.js:13:14)
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at next (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+       at /Users/spfv/blog/node_modules/koa-router/lib/router.js:346:16
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at /Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/lib/router.js:351:31)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at app.use (/Users/spfv/blog/server/server.js:21:9)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at bodyParser (/Users/spfv/blog/node_modules/koa-bodyparser/index.js:86:11)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) message: 'token lose' } }
+[2019-02-14T14:38:36.079] [ERROR] error - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: undefined,
+  err: 
+   { UnauthorizedError: token lose
+       at Object.throw (/Users/spfv/blog/node_modules/koa/lib/context.js:93:11)
+       at module.exports (/Users/spfv/blog/server/token/checkToken.js:13:14)
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at next (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+       at /Users/spfv/blog/node_modules/koa-router/lib/router.js:346:16
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at /Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/lib/router.js:351:31)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at app.use (/Users/spfv/blog/server/server.js:21:9)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at bodyParser (/Users/spfv/blog/node_modules/koa-bodyparser/index.js:86:11)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) message: 'token lose' } }
+[2019-02-14T14:38:40.107] [ERROR] error - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: undefined,
+  err: 
+   { UnauthorizedError: token lose
+       at Object.throw (/Users/spfv/blog/node_modules/koa/lib/context.js:93:11)
+       at module.exports (/Users/spfv/blog/server/token/checkToken.js:13:14)
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at next (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+       at /Users/spfv/blog/node_modules/koa-router/lib/router.js:346:16
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at /Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/lib/router.js:351:31)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at app.use (/Users/spfv/blog/server/server.js:21:9)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at bodyParser (/Users/spfv/blog/node_modules/koa-bodyparser/index.js:86:11)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) message: 'token lose' } }
+[2019-02-14T14:44:02.915] [ERROR] error - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: undefined,
+  err: 
+   { UnauthorizedError: token lose
+       at Object.throw (/Users/spfv/blog/node_modules/koa/lib/context.js:93:11)
+       at module.exports (/Users/spfv/blog/server/token/checkToken.js:13:14)
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at next (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+       at /Users/spfv/blog/node_modules/koa-router/lib/router.js:346:16
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at /Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/lib/router.js:351:31)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at app.use (/Users/spfv/blog/server/server.js:21:9)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at bodyParser (/Users/spfv/blog/node_modules/koa-bodyparser/index.js:86:11)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) message: 'token lose' } }
+[2019-02-14T14:44:07.999] [ERROR] error - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: undefined,
+  err: 
+   { UnauthorizedError: token lose
+       at Object.throw (/Users/spfv/blog/node_modules/koa/lib/context.js:93:11)
+       at module.exports (/Users/spfv/blog/server/token/checkToken.js:13:14)
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at next (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+       at /Users/spfv/blog/node_modules/koa-router/lib/router.js:346:16
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at /Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/lib/router.js:351:31)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at app.use (/Users/spfv/blog/server/server.js:21:9)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at bodyParser (/Users/spfv/blog/node_modules/koa-bodyparser/index.js:86:11)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) message: 'token lose' } }
+[2019-02-14T14:45:35.969] [ERROR] error - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: undefined,
+  err: 
+   { UnauthorizedError: token lose
+       at Object.throw (/Users/spfv/blog/node_modules/koa/lib/context.js:93:11)
+       at module.exports (/Users/spfv/blog/server/token/checkToken.js:13:14)
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at next (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+       at /Users/spfv/blog/node_modules/koa-router/lib/router.js:346:16
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at /Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/lib/router.js:351:31)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at app.use (/Users/spfv/blog/server/server.js:21:9)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at bodyParser (/Users/spfv/blog/node_modules/koa-bodyparser/index.js:86:11)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) message: 'token lose' } }
+[2019-02-14T14:45:38.442] [ERROR] error - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: undefined,
+  err: 
+   { UnauthorizedError: token lose
+       at Object.throw (/Users/spfv/blog/node_modules/koa/lib/context.js:93:11)
+       at module.exports (/Users/spfv/blog/server/token/checkToken.js:13:14)
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at next (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+       at /Users/spfv/blog/node_modules/koa-router/lib/router.js:346:16
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at /Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/lib/router.js:351:31)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at app.use (/Users/spfv/blog/server/server.js:21:9)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at bodyParser (/Users/spfv/blog/node_modules/koa-bodyparser/index.js:86:11)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) message: 'token lose' } }
+[2019-02-14T14:46:21.637] [ERROR] error - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: undefined,
+  err: 
+   { UnauthorizedError: token lose
+       at Object.throw (/Users/spfv/blog/node_modules/koa/lib/context.js:93:11)
+       at module.exports (/Users/spfv/blog/server/token/checkToken.js:13:14)
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at next (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+       at /Users/spfv/blog/node_modules/koa-router/lib/router.js:346:16
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at /Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/lib/router.js:351:31)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at app.use (/Users/spfv/blog/server/server.js:21:9)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at bodyParser (/Users/spfv/blog/node_modules/koa-bodyparser/index.js:86:11)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) message: 'token lose' } }
+[2019-02-14T14:46:26.269] [ERROR] error - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: undefined,
+  err: 
+   { UnauthorizedError: token lose
+       at Object.throw (/Users/spfv/blog/node_modules/koa/lib/context.js:93:11)
+       at module.exports (/Users/spfv/blog/server/token/checkToken.js:13:14)
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at next (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+       at /Users/spfv/blog/node_modules/koa-router/lib/router.js:346:16
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at /Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/lib/router.js:351:31)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at app.use (/Users/spfv/blog/server/server.js:21:9)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at bodyParser (/Users/spfv/blog/node_modules/koa-bodyparser/index.js:86:11)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) message: 'token lose' } }
+[2019-02-14T14:47:02.276] [ERROR] error - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: undefined,
+  err: 
+   { UnauthorizedError: token lose
+       at Object.throw (/Users/spfv/blog/node_modules/koa/lib/context.js:93:11)
+       at module.exports (/Users/spfv/blog/server/token/checkToken.js:13:14)
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at next (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+       at /Users/spfv/blog/node_modules/koa-router/lib/router.js:346:16
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at /Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/lib/router.js:351:31)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at app.use (/Users/spfv/blog/server/server.js:21:9)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at bodyParser (/Users/spfv/blog/node_modules/koa-bodyparser/index.js:86:11)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) message: 'token lose' } }
+[2019-02-14T15:28:15.522] [ERROR] error - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: undefined,
+  err: 
+   Error: non-error thrown: "no token in headers"
+       at Object.onerror (/Users/spfv/blog/node_modules/koa/lib/context.js:109:40)
+       at onerror (/Users/spfv/blog/node_modules/koa/lib/application.js:147:32)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) }
+[2019-02-14T15:28:50.105] [ERROR] error - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: undefined,
+  err: 
+   Error: non-error thrown: "no token in headers"
+       at Object.onerror (/Users/spfv/blog/node_modules/koa/lib/context.js:109:40)
+       at onerror (/Users/spfv/blog/node_modules/koa/lib/application.js:147:32)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) }
+[2019-02-14T15:29:30.270] [ERROR] error - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: undefined,
+  err: 
+   Error: non-error thrown: "no token in headers"
+       at Object.onerror (/Users/spfv/blog/node_modules/koa/lib/context.js:109:40)
+       at onerror (/Users/spfv/blog/node_modules/koa/lib/application.js:147:32)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) }
+[2019-02-14T15:30:47.557] [ERROR] error - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: undefined,
+  err: 
+   Error: non-error thrown: "no token in headers"
+       at Object.onerror (/Users/spfv/blog/node_modules/koa/lib/context.js:109:40)
+       at onerror (/Users/spfv/blog/node_modules/koa/lib/application.js:147:32)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) }
+[2019-02-14T15:31:11.349] [ERROR] error - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: undefined,
+  err: 
+   Error: non-error thrown: "no token in headers"
+       at Object.onerror (/Users/spfv/blog/node_modules/koa/lib/context.js:109:40)
+       at onerror (/Users/spfv/blog/node_modules/koa/lib/application.js:147:32)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) }
+[2019-02-14T15:33:06.938] [ERROR] error - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: undefined,
+  err: 
+   Error: non-error thrown: "no token in headers"
+       at Object.onerror (/Users/spfv/blog/node_modules/koa/lib/context.js:109:40)
+       at onerror (/Users/spfv/blog/node_modules/koa/lib/application.js:147:32)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) }
+[2019-02-14T15:35:29.175] [ERROR] error - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: undefined,
+  err: 
+   { UnauthorizedError: token lose
+       at Object.throw (/Users/spfv/blog/node_modules/koa/lib/context.js:93:11)
+       at module.exports (/Users/spfv/blog/server/token/checkToken.js:13:14)
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at next (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+       at /Users/spfv/blog/node_modules/koa-router/lib/router.js:346:16
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at /Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/lib/router.js:351:31)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at app.use (/Users/spfv/blog/server/server.js:21:9)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at bodyParser (/Users/spfv/blog/node_modules/koa-bodyparser/index.js:86:11)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) message: 'token lose' } }
+[2019-02-25T10:10:41.153] [ERROR] error - { method: 'POST',
+  url: '/api/saveArticle',
+  body: 
+   { title: 'Vue全家桶+koa+mongod 博客应用简介',
+     content: '## 项目简介\n博客前台和后台管理页面采用vue全家桶,后台基于Node.js的框架Koa,数据库采用的是Mongod提供数据存储实现的全栈应用。目前1.0版本基本出来了,后续业余时间会对博客进行版本迭代。\n## v1.0\n1.0版本,完成前台页面PC端与移动端样式,响应式布局。后台管理部分为pc端。文章模块采用Makedown编辑器和渲染。通过RESTful API完成数据交互。\n\n\n\n\n',
+     id: '5c652364704c4eb3957b92c9',
+     htmlCode: '<h2>项目简介</h2>\n<p>博客前台和后台管理页面采用vue全家桶,后台基于Node.js的框架Koa,数据库采用的是Mongod提供数据存储实现的全栈应用。目前1.0版本基本出来了,后续业余时间会对博客进行版本迭代。</p>\n<h2>v1.0</h2>\n<p>1.0版本,完成前台页面PC端与移动端样式,响应式布局。后台管理部分为pc端。文章模块采用Makedown编辑器和渲染。通过RESTful API完成数据交互。</p>\n',
+     tag: 1000 },
+  costTime: undefined,
+  err: 
+   { UnauthorizedError: token lose
+       at Object.throw (/Users/spfv/blog/node_modules/koa/lib/context.js:93:11)
+       at module.exports (/Users/spfv/blog/server/token/checkToken.js:13:14)
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at next (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+       at /Users/spfv/blog/node_modules/koa-router/lib/router.js:346:16
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at /Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/lib/router.js:351:31)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at app.use (/Users/spfv/blog/server/server.js:21:9)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at bodyParser (/Users/spfv/blog/node_modules/koa-bodyparser/index.js:86:11)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) message: 'token lose' } }
+[2019-02-25T10:10:42.587] [ERROR] error - { method: 'POST',
+  url: '/api/saveArticle',
+  body: 
+   { title: 'Vue全家桶+koa+mongod 博客应用简介',
+     content: '## 项目简介\n博客前台和后台管理页面采用vue全家桶,后台基于Node.js的框架Koa,数据库采用的是Mongod提供数据存储实现的全栈应用。目前1.0版本基本出来了,后续业余时间会对博客进行版本迭代。\n## v1.0\n1.0版本,完成前台页面PC端与移动端样式,响应式布局。后台管理部分为pc端。文章模块采用Makedown编辑器和渲染。通过RESTful API完成数据交互。\n\n\n\n\n',
+     id: '5c652364704c4eb3957b92c9',
+     htmlCode: '<h2>项目简介</h2>\n<p>博客前台和后台管理页面采用vue全家桶,后台基于Node.js的框架Koa,数据库采用的是Mongod提供数据存储实现的全栈应用。目前1.0版本基本出来了,后续业余时间会对博客进行版本迭代。</p>\n<h2>v1.0</h2>\n<p>1.0版本,完成前台页面PC端与移动端样式,响应式布局。后台管理部分为pc端。文章模块采用Makedown编辑器和渲染。通过RESTful API完成数据交互。</p>\n',
+     tag: 1000 },
+  costTime: undefined,
+  err: 
+   { UnauthorizedError: token lose
+       at Object.throw (/Users/spfv/blog/node_modules/koa/lib/context.js:93:11)
+       at module.exports (/Users/spfv/blog/server/token/checkToken.js:13:14)
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at next (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+       at /Users/spfv/blog/node_modules/koa-router/lib/router.js:346:16
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at /Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/lib/router.js:351:31)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at app.use (/Users/spfv/blog/server/server.js:21:9)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at bodyParser (/Users/spfv/blog/node_modules/koa-bodyparser/index.js:86:11)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) message: 'token lose' } }
+[2019-02-25T10:11:01.978] [ERROR] error - { method: 'POST',
+  url: '/api/saveArticle',
+  body: 
+   { title: 'Vue全家桶+koa+mongod 博客应用简介',
+     content: '## 项目简介\n博客前台和后台管理页面采用vue全家桶,后台基于Node.js的框架Koa,数据库采用的是Mongod提供数据存储实现的全栈应用。目前1.0版本基本出来了,后续业余时间会对博客进行版本迭代。\n## v1.0\n1.0版本,完成前台页面PC端与移动端样式,响应式布局。后台管理部分为pc端。文章模块采用Makedown编辑器和渲染。通过RESTful API完成数据交互。\n\n\n\n\n',
+     id: '5c652364704c4eb3957b92c9',
+     htmlCode: '<h2>项目简介</h2>\n<p>博客前台和后台管理页面采用vue全家桶,后台基于Node.js的框架Koa,数据库采用的是Mongod提供数据存储实现的全栈应用。目前1.0版本基本出来了,后续业余时间会对博客进行版本迭代。</p>\n<h2>v1.0</h2>\n<p>1.0版本,完成前台页面PC端与移动端样式,响应式布局。后台管理部分为pc端。文章模块采用Makedown编辑器和渲染。通过RESTful API完成数据交互。</p>\n',
+     tag: 1000 },
+  costTime: undefined,
+  err: 
+   { UnauthorizedError: token lose
+       at Object.throw (/Users/spfv/blog/node_modules/koa/lib/context.js:93:11)
+       at module.exports (/Users/spfv/blog/server/token/checkToken.js:13:14)
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at next (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+       at /Users/spfv/blog/node_modules/koa-router/lib/router.js:346:16
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at /Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/lib/router.js:351:31)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at app.use (/Users/spfv/blog/server/server.js:21:9)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at bodyParser (/Users/spfv/blog/node_modules/koa-bodyparser/index.js:86:11)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) message: 'token lose' } }
+[2019-02-25T10:11:12.104] [ERROR] error - { method: 'POST',
+  url: '/api/saveArticle',
+  body: 
+   { title: 'Vue全家桶+koa+mongod 博客应用简介',
+     content: '## 项目简介\n博客前台和后台管理页面采用vue全家桶,后台基于Node.js的框架Koa,数据库采用的是Mongod提供数据存储实现的全栈应用。目前1.0版本基本出来了,后续业余时间会对博客进行版本迭代。\n## v1.0\n1.0版本,完成前台页面PC端与移动端样式,响应式布局。后台管理部分为pc端。文章模块采用Makedown编辑器和渲染。通过RESTful API完成数据交互。\n\n\n\n\n',
+     id: '5c652364704c4eb3957b92c9',
+     htmlCode: '<h2>项目简介</h2>\n<p>博客前台和后台管理页面采用vue全家桶,后台基于Node.js的框架Koa,数据库采用的是Mongod提供数据存储实现的全栈应用。目前1.0版本基本出来了,后续业余时间会对博客进行版本迭代。</p>\n<h2>v1.0</h2>\n<p>1.0版本,完成前台页面PC端与移动端样式,响应式布局。后台管理部分为pc端。文章模块采用Makedown编辑器和渲染。通过RESTful API完成数据交互。</p>\n',
+     tag: 1000 },
+  costTime: undefined,
+  err: 
+   { UnauthorizedError: token lose
+       at Object.throw (/Users/spfv/blog/node_modules/koa/lib/context.js:93:11)
+       at module.exports (/Users/spfv/blog/server/token/checkToken.js:13:14)
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at next (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+       at /Users/spfv/blog/node_modules/koa-router/lib/router.js:346:16
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at /Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/lib/router.js:351:31)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at app.use (/Users/spfv/blog/server/server.js:21:9)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at bodyParser (/Users/spfv/blog/node_modules/koa-bodyparser/index.js:86:11)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) message: 'token lose' } }
+[2019-02-27T16:16:54.163] [ERROR] error - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: undefined,
+  err: 
+   { UnauthorizedError: token lose
+       at Object.throw (/Users/spfv/blog/node_modules/koa/lib/context.js:93:11)
+       at module.exports (/Users/spfv/blog/server/token/checkToken.js:13:14)
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at next (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+       at /Users/spfv/blog/node_modules/koa-router/lib/router.js:346:16
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at /Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/lib/router.js:351:31)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at app.use (/Users/spfv/blog/server/server.js:21:9)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at bodyParser (/Users/spfv/blog/node_modules/koa-bodyparser/index.js:86:11)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) message: 'token lose' } }
+[2019-03-13T10:43:48.323] [ERROR] error - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: undefined,
+  err: 
+   { UnauthorizedError: token lose
+       at Object.throw (/Users/spfv/blog/node_modules/koa/lib/context.js:93:11)
+       at module.exports (/Users/spfv/blog/server/token/checkToken.js:13:14)
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at next (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+       at /Users/spfv/blog/node_modules/koa-router/lib/router.js:346:16
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+       at /Users/spfv/blog/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+       at dispatch (/Users/spfv/blog/node_modules/koa-router/lib/router.js:351:31)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at app.use (/Users/spfv/blog/server/server.js:21:9)
+       at dispatch (/Users/spfv/blog/node_modules/koa-compose/index.js:42:32)
+       at next (/Users/spfv/blog/node_modules/koa-compose/index.js:43:18)
+       at bodyParser (/Users/spfv/blog/node_modules/koa-bodyparser/index.js:86:11)
+       at <anonymous>
+       at process._tickCallback (internal/process/next_tick.js:188:7) message: 'token lose' } }

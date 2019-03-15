@@ -1,0 +1,60 @@
+.icon {
+  width: 2rem;
+}
+.mgt5 {
+  margin-top: 0.5rem;
+}
+.mgt10 {
+  margin-top: 1rem;
+}
+.mgt15 {
+  margin-top: 1.5rem;
+}
+.mgb5 {
+  margin-bottom: 0.5rem;
+}
+.mgb10 {
+  margin-bottom: 1rem;
+}
+.wid8 {
+  width: 80%;
+}
+.wid9 {
+  width: 90%;
+}
+.wid10 {
+  width: 100%;
+}
+.Green {
+  color: #4fc08d;
+}
+.bgc {
+  background-color: #4fc08d;
+}
+.timeColor {
+  color: #8b8b8b;
+}
+.contentColor {
+  color: #919191;
+}
+.bgw {
+  background-color: white;
+}
+.greenLine {
+  border-bottom: 2px #4fc08d solid;
+  border-radius: 0px;
+}
+.greenLinex {
+  border-bottom: 2px #4fc08d solid;
+  border-radius: 0px;
+}
+.line {
+  box-shadow: 5px 5px 10px #9b9b9b;
+  -webkit-box-shadow: 5px 5px 10px #9b9b9b;
+}
+.font8 {
+  font-size: 0.8em;
+}
+.font13 {
+  font-size: 1.3em;
+}

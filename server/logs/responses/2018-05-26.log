@@ -1,0 +1,11 @@
+[2018-05-26T09:02:04.110] [INFO] response - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: 45,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8081',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { status: 200, msg: '获取文章列表成功', data: [] } } }

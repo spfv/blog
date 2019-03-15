@@ -1,0 +1,283 @@
+[2018-06-04T16:48:01.544] [INFO] response - { method: 'POST',
+  url: '/api/login',
+  body: { username: '17602004746', password: '88888888' },
+  costTime: 51,
+  response: 
+   { status: 201,
+     message: 'Created',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { success: false } } }
+[2018-06-04T16:48:06.117] [INFO] response - { method: 'POST',
+  url: '/api/login',
+  body: { username: '17602004746', password: 'wokaopy123' },
+  costTime: 51,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: 
+      { status: 200,
+        success: true,
+        token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VfaWQiOiIxNzYwMjAwNDc0NiIsImlhdCI6MTUyODEwMjA4NiwiZXhwIjoxNTI4NzA2ODg2fQ.gSrIhLmCSHrArg9ui7tVlsutIkHmS1-X0_yWgeRVEws',
+        msg: '恭喜主人,登录成功' } } }
+[2018-06-04T16:48:17.812] [INFO] response - { method: 'POST',
+  url: '/api/ArticleList',
+  body: {},
+  costTime: 12,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { status: 200, success: true, data: [Object], msg: '添加成功' } } }
+[2018-06-04T16:48:27.662] [INFO] response - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: 11,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { status: 200, msg: '获取文章列表成功', data: [Array] } } }
+[2018-06-04T16:48:28.467] [INFO] response - { method: 'POST',
+  url: '/api/postArticleContent',
+  body: { id: '5b1211bdddf31d8a36a1f4ff' },
+  costTime: 3,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { status: 200, data: [Object] } } }
+[2018-06-04T16:48:29.062] [INFO] response - { method: 'POST',
+  url: '/api/postArticleContent',
+  body: { id: '5b1211f1f593579d8ddfd17d' },
+  costTime: 4,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { status: 200, data: [Object] } } }
+[2018-06-04T16:48:29.618] [INFO] response - { method: 'POST',
+  url: '/api/postArticleContent',
+  body: { id: '5b12143c13e481a26b519959' },
+  costTime: 2,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { status: 200, data: [Object] } } }
+[2018-06-04T16:48:30.155] [INFO] response - { method: 'POST',
+  url: '/api/postArticleContent',
+  body: { id: '5b14fcd111fac960d136a71d' },
+  costTime: 4,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { status: 200, data: [Object] } } }
+[2018-06-04T16:48:30.905] [INFO] response - { method: 'POST',
+  url: '/api/postArticleContent',
+  body: { id: '5b1211bdddf31d8a36a1f4ff' },
+  costTime: 5,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { status: 200, data: [Object] } } }
+[2018-06-04T16:48:37.067] [INFO] response - { method: 'POST',
+  url: '/api/saveArticle',
+  body: 
+   { title: '新标题',
+     content: '',
+     id: '5b1211bdddf31d8a36a1f4ff',
+     htmlCode: '' },
+  costTime: 9,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { status: 200, msg: '保存成功', data: [Object] } } }
+[2018-06-04T16:48:40.863] [INFO] response - { method: 'POST',
+  url: '/api/saveArticle',
+  body: 
+   { title: '新标题',
+     content: '',
+     id: '5b1211bdddf31d8a36a1f4ff',
+     htmlCode: '' },
+  costTime: 3,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { status: 200, msg: '保存成功', data: [Object] } } }
+[2018-06-04T16:48:43.552] [INFO] response - { method: 'POST',
+  url: '/api/upArticle',
+  body: 
+   { id: '5b1211bdddf31d8a36a1f4ff',
+     title: '新标题',
+     creatTime: '2018-06-02 11:40',
+     content: '',
+     htmlCode: '' },
+  costTime: 1,
+  response: 
+   { status: 404,
+     message: 'Not Found',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: undefined } }
+[2018-06-04T16:48:46.292] [INFO] response - { method: 'POST',
+  url: '/api/downArticle',
+  body: { id: '5b1211bdddf31d8a36a1f4ff' },
+  costTime: 1,
+  response: 
+   { status: 404,
+     message: 'Not Found',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: undefined } }
+[2018-06-04T16:48:47.567] [INFO] response - { method: 'POST',
+  url: '/api/upArticle',
+  body: 
+   { id: '5b1211bdddf31d8a36a1f4ff',
+     title: '新标题',
+     creatTime: '2018-06-02 11:40',
+     content: '',
+     htmlCode: '' },
+  costTime: 0,
+  response: 
+   { status: 404,
+     message: 'Not Found',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: undefined } }
+[2018-06-04T16:49:00.109] [INFO] response - { method: 'POST',
+  url: '/api/upArticle',
+  body: 
+   { id: '5b1211bdddf31d8a36a1f4ff',
+     title: '新标题',
+     creatTime: '2018-06-02 11:40',
+     content: '',
+     htmlCode: '' },
+  costTime: 1,
+  response: 
+   { status: 404,
+     message: 'Not Found',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: undefined } }
+[2018-06-04T16:49:21.459] [INFO] response - { method: 'POST',
+  url: '/api/saveArticle',
+  body: 
+   { title: '新标题',
+     content: '::: hljs-left\n\n12312\n:::\n',
+     id: '5b1211bdddf31d8a36a1f4ff',
+     htmlCode: '<div class="hljs-left">\n<p>12312</p>\n</div>\n' },
+  costTime: 5,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { status: 200, msg: '保存成功', data: [Object] } } }
+[2018-06-04T16:49:23.990] [INFO] response - { method: 'POST',
+  url: '/api/upArticle',
+  body: 
+   { id: '5b1211bdddf31d8a36a1f4ff',
+     title: '新标题',
+     creatTime: '2018-06-02 11:40',
+     content: '::: hljs-left\n\n12312\n:::\n',
+     htmlCode: '<div class="hljs-left">\n<p>12312</p>\n</div>\n' },
+  costTime: 1,
+  response: 
+   { status: 404,
+     message: 'Not Found',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: undefined } }
+[2018-06-04T16:49:34.792] [INFO] response - { method: 'POST',
+  url: '/api/postArticleContent',
+  body: { id: '5b14fcd111fac960d136a71d' },
+  costTime: 3,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { status: 200, data: [Object] } } }
+[2018-06-04T16:49:47.932] [INFO] response - { method: 'POST',
+  url: '/api/postArticleContent',
+  body: { id: '5b1211bdddf31d8a36a1f4ff' },
+  costTime: 5,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { status: 200, data: [Object] } } }
+[2018-06-04T16:50:04.866] [INFO] response - { method: 'POST',
+  url: '/api/postArticleContent',
+  body: { id: '5b14fcd111fac960d136a71d' },
+  costTime: 4,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { status: 200, data: [Object] } } }
+[2018-06-04T16:50:07.929] [INFO] response - { method: 'POST',
+  url: '/api/upArticle',
+  body: 
+   { id: '5b14fcd111fac960d136a71d',
+     title: '新标题',
+     creatTime: '2018-06-04 16:48',
+     content: '',
+     htmlCode: '' },
+  costTime: 1,
+  response: 
+   { status: 404,
+     message: 'Not Found',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: undefined } }
+[2018-06-04T16:51:22.567] [INFO] response - { method: 'GET',
+  url: '/api/getArticleList',
+  body: {},
+  costTime: 16,
+  response: 
+   { status: 200,
+     message: 'OK',
+     header: 
+      { 'access-control-allow-origin': 'http://localhost:8082',
+        'content-type': 'application/json; charset=utf-8' },
+     body: { status: 200, msg: '获取文章列表成功', data: [Array] } } }
